@@ -1,0 +1,4 @@
+Has 0 decimals so it cannot be divided into parts
+Comes from a token mint with the supply of 1 so only 1 of these tokens exists
+Comes from a token mint whose authority is set to null (to ensure that the supply never changes)
+Has an associated account that stores metadata
